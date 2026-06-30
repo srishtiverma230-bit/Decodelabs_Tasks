@@ -81,7 +81,7 @@ https://drive.google.com/file/d/1mxPwwC8Z7Wuv3qMxIH6IQKwuLCuvmd4g/view?usp=drive
 
 This project focuses on designing a low-fidelity homepage wireframe for an e-commerce platform. The goal was to create a clean layout with intuitive navigation and a clear shopping journey.
 
-## Problem Statement
+## Objective
 
 Design an e-commerce homepage that enables users to easily discover products, browse categories, and begin their shopping experience.
 
