@@ -42,9 +42,6 @@ This project was completed as part of the Decode Labs UI/UX Internship Program. 
 - UI Design
 - Interactive Prototype
 
-## Tools Used
-
-- Figma
 
 ## Design Process
 
@@ -72,10 +69,6 @@ https://www.figma.com/design/dQBi3xBFF5bgRBtXkfhdxN/DecodeLabs-Task?node-id=0-1&
 
 https://drive.google.com/file/d/1mxPwwC8Z7Wuv3qMxIH6IQKwuLCuvmd4g/view?usp=drive_link
 
-## Author
-
-Srishti
-UX Designer
 
 
 ---
@@ -102,9 +95,6 @@ Home → Browse Categories → Product Details → Add to Cart → Checkout → 
 - UX Planning
 - Low-Fidelity Wireframing
 
-## Tools Used
-
-- Figma
 
 ## Key Design Decisions
 
@@ -135,11 +125,6 @@ https://www.figma.com/design/dQBi3xBFF5bgRBtXkfhdxN/DecodeLabs-Task?node-id=0-1&
 
 https://drive.google.com/file/d/1urHabivw5lKBkdydQYFezhp-i8aBbXEV/view?usp=drive_link
 
-## Author
-
-Srishti
-UX Designer
-
 
 ---
 
@@ -165,9 +150,6 @@ This project was completed during the Decode Labs UI/UX Internship and focuses o
 - UI Design
 - Prototype Development
 
-## Tools Used
-
-- Figma
 
 ## Design Process
 
@@ -201,11 +183,6 @@ https://drive.google.com/file/d/1mxPwwC8Z7Wuv3qMxIH6IQKwuLCuvmd4g/view?usp=drive
 - Applied UX best practices
 - Enhanced problem-solving skills
 - Strengthened prototyping workflow
-
-## Author
-
-Srishti
-UX Designer
 
 
 
