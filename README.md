@@ -62,7 +62,7 @@ This project was completed as part of the Decode Labs UI/UX Internship Program. 
 
 ## Project Preview
 
-(Add screenshots here)
+<img width="1238" height="904" alt="image" src="https://github.com/user-attachments/assets/09221911-fc4b-4e09-88fc-9ca0196e7d6b" />
 
 ## Figma Prototype
 
@@ -125,7 +125,7 @@ Home → Browse Categories → Product Details → Add to Cart → Checkout → 
 
 ## Project Preview
 
-(Add exported wireframe images)
+<img width="998" height="890" alt="image" src="https://github.com/user-attachments/assets/e033fdbb-e6ed-471c-8a8f-0ea7d9a18575" />
 
 ## Figma File
 
