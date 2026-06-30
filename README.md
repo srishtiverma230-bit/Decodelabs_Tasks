@@ -66,20 +66,17 @@ This project was completed as part of the Decode Labs UI/UX Internship Program. 
 
 ## Figma Prototype
 
-(Paste your Figma link)
+https://www.figma.com/design/dQBi3xBFF5bgRBtXkfhdxN/DecodeLabs-Task?node-id=0-1&t=eKbtlsRHVmccsJet-1
+
+## PDF
+
+https://drive.google.com/file/d/1mxPwwC8Z7Wuv3qMxIH6IQKwuLCuvmd4g/view?usp=drive_link
 
 ## Author
 
 Srishti
 UX Designer
 
-📂 Project-1
-
-https://drive.google.com/file/d/1mxPwwC8Z7Wuv3qMxIH6IQKwuLCuvmd4g/view?usp=drive_link
-
-Figma Link - Project 1
-
-https://www.figma.com/design/dQBi3xBFF5bgRBtXkfhdxN/DecodeLabs-Task?node-id=0-1&t=eKbtlsRHVmccsJet-1
 
 ---
 
@@ -132,20 +129,17 @@ Home → Browse Categories → Product Details → Add to Cart → Checkout → 
 
 ## Figma File
 
-(Paste Figma link)
+https://www.figma.com/design/dQBi3xBFF5bgRBtXkfhdxN/DecodeLabs-Task?node-id=0-1&t=eKbtlsRHVmccsJet-1
+
+## PDF
+
+https://drive.google.com/file/d/1urHabivw5lKBkdydQYFezhp-i8aBbXEV/view?usp=drive_link
 
 ## Author
 
 Srishti
 UX Designer
 
-📂 Project-2
-
-https://drive.google.com/file/d/1urHabivw5lKBkdydQYFezhp-i8aBbXEV/view?usp=drive_link
-
-Figma Link - Project 2
-
-https://www.figma.com/design/dQBi3xBFF5bgRBtXkfhdxN/DecodeLabs-Task?node-id=0-1&t=eKbtlsRHVmccsJet-1
 
 ---
 
@@ -191,11 +185,15 @@ This project was completed during the Decode Labs UI/UX Internship and focuses o
 
 ## Project Preview
 
-(Add screenshots)
+<img width="1385" height="764" alt="image" src="https://github.com/user-attachments/assets/cb3608a4-1eae-4dd0-b2ff-beff5bc6f444" />
 
-## Prototype
+## Figma File
 
-(Add Figma prototype link)
+https://www.figma.com/design/dQBi3xBFF5bgRBtXkfhdxN/DecodeLabs-Task?node-id=0-1&t=eKbtlsRHVmccsJet-1
+
+## PDF
+
+https://drive.google.com/file/d/1mxPwwC8Z7Wuv3qMxIH6IQKwuLCuvmd4g/view?usp=drive_link
 
 ## Learnings
 
@@ -209,15 +207,7 @@ This project was completed during the Decode Labs UI/UX Internship and focuses o
 Srishti
 UX Designer
 
-<img width="1385" height="764" alt="image" src="https://github.com/user-attachments/assets/cb3608a4-1eae-4dd0-b2ff-beff5bc6f444" />
 
-📂 Project-3
-
-https://drive.google.com/file/d/1mxPwwC8Z7Wuv3qMxIH6IQKwuLCuvmd4g/view?usp=drive_link
-
-Figma Link - Project 3
-
-https://www.figma.com/design/dQBi3xBFF5bgRBtXkfhdxN/DecodeLabs-Task?node-id=0-1&t=eKbtlsRHVmccsJet-1
 
 ---
 
